@@ -32,25 +32,25 @@ const libraryButton = document.querySelector(".library-button");
 const songs = [
     {
         title: "Top 50 Global",
-        artist: "Spotify",
+           artist: "Various Artists",
         image: "assets/card1img.jpeg"
     },
 
     {
         title: "Trending Hits",
-        artist: "Spotify",
+           artist: "Various Artists",
         image: "assets/card2img.jpeg"
     },
 
     {
         title: "Today's Top Songs",
-        artist: "Spotify",
+           artist: "Various Artists",
         image: "assets/card3img.jpeg"
     },
 
     {
         title: "Featured Charts",
-        artist: "Spotify",
+           artist: "Various Artists",
         image: "assets/card5img.jpeg"
     }
 ];
